@@ -1,0 +1,3 @@
+Uses BitGo API to generate BTC wallets for each User 
+please see https://github.com/vakishna/bitcoinwebwallet 
+for full node implementation with UI. 

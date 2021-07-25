@@ -1,0 +1,63 @@
+# github.com/andybalholm/brotli v1.0.3
+## explicit
+github.com/andybalholm/brotli
+# github.com/go-sql-driver/mysql v1.6.0
+github.com/go-sql-driver/mysql
+# github.com/gofiber/fiber/v2 v2.15.0
+## explicit
+github.com/gofiber/fiber/v2
+github.com/gofiber/fiber/v2/internal/bytebufferpool
+github.com/gofiber/fiber/v2/internal/colorable
+github.com/gofiber/fiber/v2/internal/encoding/ascii
+github.com/gofiber/fiber/v2/internal/encoding/json
+github.com/gofiber/fiber/v2/internal/isatty
+github.com/gofiber/fiber/v2/internal/schema
+github.com/gofiber/fiber/v2/internal/uuid
+github.com/gofiber/fiber/v2/middleware/cors
+github.com/gofiber/fiber/v2/utils
+# github.com/golang-jwt/jwt v3.2.1+incompatible
+## explicit
+github.com/golang-jwt/jwt
+# github.com/jinzhu/inflection v1.0.0
+github.com/jinzhu/inflection
+# github.com/jinzhu/now v1.1.2
+github.com/jinzhu/now
+# github.com/joho/godotenv v1.3.0
+## explicit
+github.com/joho/godotenv
+# github.com/klauspost/compress v1.13.1
+## explicit
+github.com/klauspost/compress/flate
+github.com/klauspost/compress/gzip
+github.com/klauspost/compress/zlib
+# github.com/valyala/bytebufferpool v1.0.0
+github.com/valyala/bytebufferpool
+# github.com/valyala/fasthttp v1.28.0
+## explicit
+github.com/valyala/fasthttp
+github.com/valyala/fasthttp/fasthttputil
+github.com/valyala/fasthttp/reuseport
+github.com/valyala/fasthttp/stackless
+# github.com/valyala/tcplisten v1.0.0
+github.com/valyala/tcplisten
+# golang.org/x/crypto v0.0.0-20210711020723-a769d52b0f97
+## explicit
+golang.org/x/crypto/bcrypt
+golang.org/x/crypto/blowfish
+# golang.org/x/sys v0.0.0-20210630005230-0f9fa26af87c
+## explicit
+golang.org/x/sys/internal/unsafeheader
+golang.org/x/sys/unix
+golang.org/x/sys/windows
+# gorm.io/driver/mysql v1.1.1
+## explicit
+gorm.io/driver/mysql
+# gorm.io/gorm v1.21.12
+## explicit
+gorm.io/gorm
+gorm.io/gorm/callbacks
+gorm.io/gorm/clause
+gorm.io/gorm/logger
+gorm.io/gorm/migrator
+gorm.io/gorm/schema
+gorm.io/gorm/utils
