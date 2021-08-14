@@ -9,7 +9,7 @@ import (
 var DB *gorm.DB
 
 func Connect() {
-	db, err := gorm.Open(mysql.Open("root:Vanishhay36@/lightningapp"), &gorm.Config{})
+	db, err := gorm.Open(mysql.Open("root:.k@/lightningapp"), &gorm.Config{})
 
 	if err != nil {
 		panic("Database not reachable!")
